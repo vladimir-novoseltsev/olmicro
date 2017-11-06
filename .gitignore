@@ -1,0 +1,11 @@
+.idea
+.classpath
+.project
+.settings
+target
+*.iml
+atlassian-ide-plugin.xml
+nb-configuration.xml
+/target
+.metadata
+.DS_Store
